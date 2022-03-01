@@ -1,0 +1,595 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of the Sacrament, with the right use therof catichistically handled by way of question and answer.  / By Mr. Charles Chancy sometimes minister of Ware.</title>
+            <author>Chauncy, Charles, 1592-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08739</idno>
+            <idno type="OCLC"> 80922173</idno>
+            <idno type="STC">Wing C3737E</idno>
+            <idno type="STC">ESTC R173815</idno>
+            <idno type="EEBO-CITATION">80922173</idno>
+            <idno type="OCLC">ocm 80922173</idno>
+            <idno type="VID">191830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191830)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2891:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of the Sacrament, with the right use therof catichistically handled by way of question and answer.  / By Mr. Charles Chancy sometimes minister of Ware.</title>
+                  <author>Chauncy, Charles, 1592-1672.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Thomas Underhill at the signe of the Bible in Wood-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191830:1" rendition="simple:additions"/>
+            <p>THE DOCTRINE <hi>Of the</hi> SACRAMENT, With the right uſe therof Ca<g ref="char:EOLhyphen"/>tichiſtically handled by way of Queſtion and Anſwer.</p>
+            <p>By M<hi rend="sup">r</hi>. CHARLES CHANCY ſometimes Miniſter of <hi>Ware.</hi>
+            </p>
+            <figure>
+               <q>ANCHORA SPEI</q>
+               <figDesc>printer's device of George Miller</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. M.</hi> for <hi>Thomas <g ref="char:V">Ʋ</g>nderhill</hi> at the ſigne of the Bible in <hi>Wood-ſtreet,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191830:2"/>
+            <pb n="1" facs="tcp:191830:2"/>
+            <head>THE DOCTRINE Of the SACRAMENT.</head>
+            <p>
+               <hi>Q. <seg rend="decorInit">W</seg>Hat is it to receive?</hi>
+            </p>
+            <p>A. It is to lay hold on Chriſt by faith.</p>
+            <p>
+               <hi>Q How doe we receive by faith in the Sacrament?</hi>
+            </p>
+            <p>A. As it is the nature of faith to apply and reſt up<g ref="char:EOLhyphen"/>on other Promiſes in the juſtification of a ſinner,
+<note n="a" place="margin">
+                  <hi>Gal.</hi> 3.22. <hi>Heb.</hi> 11.13.</note> ſo to receive by faith in the Sacrament, is in the act of receiving to apply and rely upon the Promiſes that concern each Sacrament,</p>
+            <p>
+               <hi>Q. What are the Promiſes that concerne the Sacra<g ref="char:EOLhyphen"/>ment of Baptiſme?</hi>
+            </p>
+            <p>A. He that believes and is baptized ſhall be ſaved,
+<note n="a" place="margin">
+                  <hi>Mar.</hi> 16.16.</note> as many as are baptized into Chriſt, doe put on Chriſt,
+<note n="b" place="margin">
+                  <hi>Gal.</hi> 3.27.</note> and the very word of inſtitution, when we are baptized in the name of the Father, Sonne, and Holy Ghoſt,
+<note n="c" place="margin">
+                  <hi>Mat.</hi> 28.19.</note> include a Promiſe, that all the Perſons in the God head doe enter into covenant with us to waſh away our ſins.</p>
+            <p>
+               <hi>Q. What are the Promiſes that concerne the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper?</hi>
+            </p>
+            <p>A. They are plainly laid downe in the words of
+<pb n="2" facs="tcp:191830:3"/>inſtitution, this is my body which is broken for you,
+<note n="a" place="margin">1 <hi>Cor.</hi> 11.24</note> this is my bloud of the new Teſtament, which is ſhed for you and for many for the remiſſion of ſins
+<note n="b" place="margin">
+                  <hi>Mat.</hi> 26.28. <hi>Luk.</hi> 22.20.</note>,</p>
+            <p>
+               <hi>Q. What is the meaning of that promiſe, this is my body which is broken for you?</hi>
+            </p>
+            <p>A. It is as much as if Chriſt ſhould ſay in parti<g ref="char:EOLhyphen"/>cular to every faithfull receiver, as ſurely as I deliver and give this bread unto thee, ſo I beſtow this my crucified body, with all the merits of my death upon thee.</p>
+            <p>
+               <hi>Q. What is the meaning of the other promiſe this cup is the new Teſtament? &amp;c.</hi>
+            </p>
+            <p>A. It is as much as if Chriſt had ſaid in particular to every believing receiver, as ſurely as I deliver this cup unto thee, ſo I doe make good and aſſure the whole covenant of grace unto thee and ſeal the free pardon of thy ſins unto thee by my precious bloud.</p>
+            <p>
+               <hi>Q. When are we to apply theſe promiſes to our ſelves?</hi>
+            </p>
+            <p>A. Eſpecially in the very act and time of receiving, we are to apply theſe promiſes by faith, and ſo wee are to draw comfort from them afterwards.</p>
+            <p>
+               <hi>Q. What is meant by the word Baptiſme?</hi>
+            </p>
+            <p>A. It ſignifies dipping or waſhing in water, and is applied to ſignifie that dipping or waſhing which is uſed in the firſt Sacrament of the new Teſtament.</p>
+            <p>
+               <hi>Q. What is the benefit of the Sacrament of Bap<g ref="char:EOLhyphen"/>tiſme?</hi>
+            </p>
+            <p>A. The benefit of the Sacrament of Baptiſme is
+<pb n="3" facs="tcp:191830:3"/>the ſealing to the true beleever, and the aſſuring to him all the benefits of Chriſt that concerne his rege<g ref="char:EOLhyphen"/>neration or new-birth, as in particular, the putting on of Chriſt
+<note n="a" place="margin">
+                  <hi>Gal.</hi> 3.26.</note>, the waſhing of his ſoule from ſins
+<note n="b" place="margin">
+                  <hi>Epheſ.</hi> 5.26.</note>, the pardon of his ſins
+<note n="c" place="margin">
+                  <hi>Lu.</hi> 3.3. <hi>Act</hi> 22, 16.</note>, fellowſhip with Chriſt in his death
+<note n="d" place="margin">
+                  <hi>Rom.</hi> 6.3, 4.</note>, eternall life and ſalvation
+<note n="e" place="margin">1 <hi>Pet.</hi> 3.21.</note>.</p>
+            <p>
+               <hi>Q. What doth the Sacrament of Baptiſme binde the party baptized unto?</hi>
+            </p>
+            <p>A. It binds him by a ſolemne oath or vow when he commeth to yeares of diſcretion, to enter into a ſure covenant with Almighty God, and to perform the condition of the covenant of grace
+<note n="a" place="margin">
+                  <hi>Gen.</hi> 17 7, 9.</note>, which is faith
+<note n="b" place="margin">
+                  <hi>Act</hi> 8.36, 37, 38. <hi>Act.</hi> 2.38</note>; as alſo to repent him unfainedly of all his ſins
+<note n="c" place="margin">
+                  <hi>Mat.</hi> 3.5.</note>, to walke in newneſſe of life
+<note n="d" place="margin">
+                  <hi>Rom.</hi> 6.4.</note>, to walk in love and unity with his bretheren
+<note n="e" place="margin">1 <hi>Cor.</hi> 12 1 <hi>Cor.</hi> 1.13.</note>, to give up himſelfe to labour for ſaving knowledge and a good conſcience
+<note n="f" place="margin">1 <hi>Pet.</hi> 3.21.</note>, and to live altogether for the obedience, worſhip and ſervice of the holy and undivided Trinity
+<note n="g" place="margin">
+                  <hi>Mat.</hi> 28.19, 20.</note>.</p>
+            <p>
+               <hi>Q. What are the duties required to the right recei<g ref="char:EOLhyphen"/>ving of the Sacrament of Baptiſme?</hi>
+            </p>
+            <p>A. Some are required of the Parents, others of the infant baptized when hee comes to yeares, o<g ref="char:EOLhyphen"/>thers of the Congregation preſent at this Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="4" facs="tcp:191830:4"/>
+            <p>
+               <hi>Q. What are the duties required of the Parents of the party baptized?</hi>
+            </p>
+            <p>A. They are to humble themſelves for the cor<g ref="char:EOLhyphen"/>ruption they have conveyed to the infant,
+<note n="a" place="margin">
+                  <hi>Job</hi> 14.4.</note> and ſeek for the pardon of it, they muſt call to remembrance Gods gracious and free covenant
+<note n="b" place="margin">
+                  <hi>Act.</hi> 2.37, 38, 39. <hi>Gen.</hi> 17 7, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, and ſo get aſſu<g ref="char:EOLhyphen"/>rance that they themſelves are within this covenant, they muſt preſſe it by hearty and fervent prayer
+<note n="c" place="margin">1 <hi>Sam.</hi> 1.27.</note> and renew their covenant with God in behalfe of them<g ref="char:EOLhyphen"/>ſelves and their children, and to offer themſelves and their children unto God to be his obedient ſervants and children all their dayes
+<note n="d" place="margin">1 <hi>Sam.</hi> 1.28.</note>.</p>
+            <p>
+               <hi>Q. What are the duties required of the Infant bap<g ref="char:EOLhyphen"/>tized when he comes to yeares?</hi>
+            </p>
+            <p>A. As he is to know that the vertue of baptiſme is not bounded only to the time of receiving this Sa<g ref="char:EOLhyphen"/>crament, becauſe it is a ſeale of the righteouſneſſe of faith
+<note n="a" place="margin">
+                  <hi>Ro.</hi> 4.11.</note>, and of Gods covenant which is everlaſting
+<note n="b" place="margin">
+                  <hi>Ier.</hi> 32.40.</note>, ſo he is ſtill to make uſe of his Baptiſme, both as a bond to binde him to performe all the former du<g ref="char:EOLhyphen"/>ties, and as a ſure ground to apply all the former be<g ref="char:EOLhyphen"/>nefits of the pardoning and waſhing away of his ſins, and to comfort himſelf that the Lord will be his God in the worſt times
+<note n="c" place="margin">
+                  <hi>Gen.</hi> 17.7.</note>, and all ſufficient for him
+<note n="d" place="margin">
+                  <hi>Gen.</hi> 17.1.</note>, in providing all neceſſaries for his body and ſoule, and deliver him from all dangers, and certainly ſave his ſoule
+<note n="e" place="margin">1 <hi>Pet.</hi> 3.20, 21.</note>, and raiſe up his body to eternall life at the laſt day
+<note n="f" place="margin">
+                  <hi>Col.</hi> 2.12.</note>,</p>
+            <pb n="5" facs="tcp:191830:4"/>
+            <p>
+               <hi>Q. What duties are required of the aſſembly at this Sacrament?</hi>
+            </p>
+            <p>A. They are to abide till the Sacrament of Bap<g ref="char:EOLhyphen"/>tiſme, and all other publike duties be ended
+<note n="a" place="margin">
+                  <hi>Ezek.</hi> 46.10.</note>, to joyn in prayer and thankſgiving to God for it
+<note n="b" place="margin">
+                  <hi>Act.</hi> 22.16.</note>, to re<g ref="char:EOLhyphen"/>member their owne covenant with God and their former breaches of it with unfained ſorrow and re<g ref="char:EOLhyphen"/>ſolution to keep it afterwards.</p>
+            <p>
+               <hi>Q. What are the duties required for the right recei<g ref="char:EOLhyphen"/>ving of the Sacrament of the Lords Supper?</hi>
+            </p>
+            <p>A. They are of 3 ſorts, ſome concerne our pre<g ref="char:EOLhyphen"/>paration to that Sacrament, ſome that holy diſpoſi<g ref="char:EOLhyphen"/>tion that is required in the time of receiving, and o<g ref="char:EOLhyphen"/>thers our holy carriage afterwards.</p>
+            <p>
+               <hi>Q What are the duties required for our due pre<g ref="char:EOLhyphen"/>paration to this Sacrament?</hi>
+            </p>
+            <p>A. They are eſpecially two,
+<note n="a" place="margin">1 <hi>Cor.</hi> 11.28.</note> thorow examination of our ſelves, and a right behaviour afterwards.</p>
+            <p>
+               <hi>Q. Wherein conſiſts the thorow examination of our ſelves before receiving?</hi>
+            </p>
+            <p>A. We muſt try our ſelves concerning thoſe ſe<g ref="char:EOLhyphen"/>verall graces that are required to the right receiving of the Supper of the Lord, whither they are truely wrought in us or not, which are ſound knowledge
+<note n="a" place="margin">1 <hi>Cor.</hi> 11.29.</note>, ſaving faith
+<note n="b" place="margin">
+                  <hi>Rom.</hi> 4.11. <hi>Mark.</hi> 16.16.</note>, true repentance for all our ſins
+<note n="c" place="margin">1 <hi>Cor.</hi> 11.31.</note>, un<g ref="char:EOLhyphen"/>fained obedience
+<note n="d" place="margin">
+                  <hi>Pro.</hi> 9.5, 6.</note>, entire love to God and man
+<note n="e" place="margin">
+                  <hi>Mat.</hi> 5 25. 1 <hi>Cor.</hi> 12.13.</note>, earneſt hunger and thirſt after Chriſt
+<note n="f" place="margin">
+                  <hi>Ioh.</hi> 7.37 <hi>Lu.</hi> 22.15.</note>, and laſtly the
+<pb n="6" facs="tcp:191830:5"/>ſincerity and uprightneſſe of our hearts
+<note n="g" place="margin">2 <hi>Chr.</hi> 30.18, 19.</note>.</p>
+            <p>
+               <hi>Q. How may we know that our knowledge is ſound and ſufficient to receive?</hi>
+            </p>
+            <p>A. By the meaſure and properties of it.</p>
+            <p>
+               <hi>Q. What is the meaſure of ſound knowledge requi<g ref="char:EOLhyphen"/>red?</hi>
+            </p>
+            <p>A. A Chriſtian muſt know all the principles of the doctrine of Chriſt, which are chiefly theſe
+<note n="a" place="margin">
+                  <hi>Heb.</hi> 6.1.</note>, he muſt underſtand the 10. commandements with the ſpirituall meaning therof, to work repentance from dead works, and he muſt be able to conceive the true meaning of all the Articles of our Chriſtian faith, to<g ref="char:EOLhyphen"/>gether with the nature, uſe and end of each Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Q. What are the marks or properties by which our knowledge may be tryed?</hi>
+            </p>
+            <p>A. Sound knowledge makes a Chriſtian humble
+<note n="a" place="margin">1 <hi>Cor.</hi> 3.18. <hi>Pro.</hi> 26.16.</note>, and ready to render a reaſon of the hope that is in him with all meekneſſe
+<note n="b" place="margin">1 <hi>Pet.</hi> 3.15.</note>, and willing to receive e<g ref="char:EOLhyphen"/>very truth revealed out of the word of God
+<note n="c" place="margin">1 <hi>Tim.</hi> 6.5.</note>, and carefully to put in practice whatſoever hee knoweth already
+<note n="d" place="margin">1 <hi>Iohn</hi> 2.3, 4, 5.</note>, and painfully to increaſe the knowledge already attained
+<note n="e" place="margin">
+                  <hi>Prov.</hi> 2.3, 4, 5. <hi>Hoſ.</hi> 6.3.</note>.</p>
+            <p>
+               <hi>Q. What are the marks the Scripture gives of ſaving faith?</hi>
+            </p>
+            <pb n="7" facs="tcp:191830:5"/>
+            <p>A. Saving faith in the leaſt degree is ever wrought and preſerved in the heart by the word of God prea<g ref="char:EOLhyphen"/>ched
+<note n="a" place="margin">
+                  <hi>Rom</hi> 10.14.</note>, whereby wee are weary and heavy laden with ſins,
+<note n="b" place="margin">
+                  <hi>Mat.</hi> 11.28.</note>, and utterly rid of all confidence in our owne righteouſneſſe
+<note n="c" place="margin">
+                  <hi>Rom.</hi> 10.3, 4.</note>, and reſtleſſe in deſiring after Chriſt till we finde comfort in the promiſes of the pardon of our ſins
+<note n="d" place="margin">
+                  <hi>Mat.</hi> 6.5.</note>, withall it mak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s us to looke at ſin as the greateſt evill, and the grace of Chriſt as the greateſt good in the world
+<note n="e" place="margin">
+                  <hi>Heb.</hi> 11.24.—28.</note>, it purifieth and clean<g ref="char:EOLhyphen"/>ſeth the heart
+<note n="f" place="margin">
+                  <hi>Act.</hi> 15.9.</note>, will, thoughts and affections from all love and allowance of ſin, and ſo works inward ſanctification
+<note n="g" place="margin">
+                  <hi>Act.</hi> 26.18.</note>, it wraſtles againſt temptations of un<g ref="char:EOLhyphen"/>beliefe
+<note n="h" place="margin">
+                  <hi>Mar.</hi> 9.24. <hi>Lu.</hi> 22.31, 32.</note>, and works by love of God and our brethe<g ref="char:EOLhyphen"/>ren
+<note n="i" place="margin">
+                  <hi>Gal.</hi> 5.6.</note>.</p>
+            <p>
+               <hi>Q. What are the marks and tryals of true repen<g ref="char:EOLhyphen"/>tance?</hi>
+            </p>
+            <p>A. True repentance may be knowne by our wil<g ref="char:EOLhyphen"/>lingneſſe and gladneſſe to have any ſin diſcovered
+<note n="a" place="margin">
+                  <hi>Pſa.</hi> 141.5.</note>, and hearty love of thoſe that diſcover and reproove it
+<note n="b" place="margin">2 <hi>Sam.</hi> 12.13.</note>, an inward godly ſorrow for all knowne ſins, as they are a breach of Gods comma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dements and are diſpleaſing unto God
+<note n="c" place="margin">2 <hi>Cor.</hi> 7.10.</note>, a forſaking of all known ſins
+<note n="d" place="margin">
+                  <hi>Ezek.</hi> 18.5, 6. <hi>&amp;c. Pſa.</hi> 119.3.</note>, out of a perfect hatred of them, &amp; care to avoid all the occaſions of them
+<note n="e" place="margin">2 <hi>Cor.</hi> 7.11.</note>, &amp; an univerſall turning to God
+<note n="f" place="margin">
+                  <hi>Deut.</hi> 30.10.</note>, and conſtant cleaving to him in all his revea<g ref="char:EOLhyphen"/>led will, and the practice of all knowne duties of obedience.</p>
+            <pb n="8" facs="tcp:191830:6"/>
+            <p>
+               <hi>Q. What are the tryals of unfained obedience?</hi>
+            </p>
+            <p>A. Vnfained obedience may be known thus, that it is grounded only on the word of God
+<note n="a" place="margin">
+                  <hi>Eph.</hi> 2.10.</note>, and not on the traditions and inventions of men
+<note n="b" place="margin">
+                  <hi>Mar.</hi> 7.6, 7.</note>, that it hath reſpect to all Gods commandements without partiality or exception
+<note n="c" place="margin">
+                  <hi>Pſ.</hi> 119.6.</note>, that it aimes alwaies at a right end, the praiſe and glory of God
+<note n="d" place="margin">
+                  <hi>Phil.</hi> 1.11.</note>, and not at any private advantage, that it is alwaies accompa<g ref="char:EOLhyphen"/>nied with zeale
+<note n="e" place="margin">
+                  <hi>Gal.</hi> 4.18.</note>, humility
+<note n="f" place="margin">
+                  <hi>Mich.</hi> 6.8.</note>, and conſtancy
+<note n="g" place="margin">
+                  <hi>Pſ.</hi> 106.3.</note>
+            </p>
+            <p>
+               <hi>Q. How may we know whether our love to God and man be intire?</hi>
+            </p>
+            <p>A. We may be ſure that our love to God is intire if that no commandement of God be grievous unto us
+<note n="a" place="margin">1 <hi>John</hi> 5.3.</note>, if it weanes our hearts from the love of the world
+<note n="b" place="margin">1 <hi>John.</hi> 2.15. 1 <hi>John</hi> 4.20, 21.1 <hi>Iohn</hi> 5.1. 1 <hi>John</hi> 4.12.</note>, and if it make us love the children of God.</p>
+            <p>
+               <hi>Q. What are the markes of entire love to Gods chil<g ref="char:EOLhyphen"/>dren?</hi>
+            </p>
+            <p>A, Entire love to Gods children makes us love godly men for godlineſſe ſake
+<note n="a" place="margin">2 <hi>John</hi> 1.2.</note>, that is, it will make us love all the Saints
+<note n="b" place="margin">
+                  <hi>Epheſ.</hi> 1.15.</note>, whether rich or poor, ſtran<g ref="char:EOLhyphen"/>gers or kindred, and that conſtantly
+<note n="c" place="margin">
+                  <hi>Pro.</hi> 17.17.</note>, and commu<g ref="char:EOLhyphen"/>nicates it ſelfe in doing good to their ſoules and bo<g ref="char:EOLhyphen"/>dies
+<note n="d" place="margin">1 <hi>Joh.</hi> 3.17, 18.</note>.</p>
+            <pb n="9" facs="tcp:191830:6"/>
+            <p>
+               <hi>Q. How may we know entire love to our Neigh<g ref="char:EOLhyphen"/>bour?</hi>
+            </p>
+            <p>A. Entire love to our neighbour will make us willing to forgive wrongs
+<note n="a" place="margin">
+                  <hi>Col</hi> 3.13.</note>, and to ſeeke peace,
+<note n="b" place="margin">
+                  <hi>Rom.</hi> 12.18.</note> and to make ſatisfaction if wee have wron<g ref="char:EOLhyphen"/>ged them
+<note n="c" place="margin">
+                  <hi>Rom.</hi> 13.10.</note>, it will cauſe us to love their ſoules, and not ſuffer ſin to lye upon them,
+<note n="d" place="margin">
+                  <hi>Lovit.</hi> 19.17.</note> it will make us to overcome evill with good,
+<note n="e" place="margin">
+                  <hi>Rom.</hi> 12.17, 20, 21.</note> by heaping of<g ref="char:EOLhyphen"/>fices of love upon them.</p>
+            <p>
+               <hi>Q. What are the tryals of our earnest hunger and thirſt after Christ?</hi>
+            </p>
+            <p>A. True hunger and thirſt after Chriſt will make us ſeeke him with our whole heart in the diligent and conſtant uſe of all the meanes,
+<note n="a" place="margin">
+                  <hi>Prov.</hi> 13.4.</note> ſo that nothing elſe will ſatisfie us without Chriſt,
+<note n="b" place="margin">
+                  <hi>Pſ.</hi> 73.25.</note> it longs after Chriſt for himſelfe, ſo as to part with any thing for him,
+<note n="c" place="margin">
+                  <hi>Mat.</hi> 13.44.</note> and to be content to have him upon the har<g ref="char:EOLhyphen"/>deſt conditions,
+<note n="d" place="margin">
+                  <hi>Phil.</hi> 1.21. <hi>Phil.</hi> 3.8.</note> it is ready to entertain with great thankfulneſſe, whatſoever mea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es or meſſenger ſhall bring him home unto the ſoule,
+<note n="e" place="margin">
+                  <hi>Rom.</hi> 10.15.</note> it ſeeks after him for holineſſe
+<note n="f" place="margin">
+                  <hi>Iſa.</hi> 51.1.</note>, as well as for happineſſe.</p>
+            <p>
+               <hi>Q. What are the tryals of the ſincerity and upright<g ref="char:EOLhyphen"/>neſſe of our hearts?</hi>
+            </p>
+            <p>A Sincerity and uprightneſſe of heart ſhewes it ſelfe in the reformation of our delightfull and bo<g ref="char:EOLhyphen"/>ſome corruptions
+<note n="a" place="margin">
+                  <hi>Pſalme</hi> 18.23.</note>, and carefull endeavour to finde
+<pb n="10" facs="tcp:191830:7"/>them out, and gladneſſe when they are diſcove<g ref="char:EOLhyphen"/>red
+<note n="b" place="margin">
+                  <hi>Pſal.</hi> 119.59. <hi>Pſalm</hi> 141.5.</note>, by the denyall of our ſelves in parting with any outward comfort, to keepe a good conſcience
+<note n="c" place="margin">
+                  <hi>Iob</hi> 27.2. <hi>Heb.</hi> 11.24, 27.</note>, by making conſcience of the fruit<g ref="char:EOLhyphen"/>full performance of holy duties
+<note n="d" place="margin">
+                  <hi>Rom.</hi> 12.11.</note>, eſpecially in ſecret
+<note n="e" place="margin">
+                  <hi>Mat.</hi> 6.6.</note>, and l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtly an earneſt deſire and indea<g ref="char:EOLhyphen"/>vour of growth unto perfection
+<note n="f" place="margin">
+                  <hi>Phil.</hi> 3.12.—14.</note>.</p>
+            <p>
+               <hi>Q. What duties are required of a Chriſtian after examination that he may finiſh his preparation to the Sacrament?</hi>
+            </p>
+            <p>A. If hee ſhall finde any of theſe graces to be wanting in him hee is bound for the preſent to abſtaine from the Sacrament
+<note n="a" place="margin">
+                  <hi>Ex. Chapter</hi> 12.48. <hi>Numbers</hi> 9. from the 6. to the 12.</note>, if he doubt whi<g ref="char:EOLhyphen"/>ther they be wrought in him or not, hee is like<g ref="char:EOLhyphen"/>wiſe to abſent himſelfe
+<note n="b" place="margin">
+                  <hi>Romans</hi> 14.23.</note>, unleſſe his conſcience by ſome meanes may bee reſolved and ſet<g ref="char:EOLhyphen"/>led, that hee hath them; if hee ſhall finde them wrought in him, though in much weake<g ref="char:EOLhyphen"/>neſſe, hee is to repaire to this Sacrament for further ſtrength
+<note n="c" place="margin">2 <hi>Chro.</hi> 30.18, 19.</note>, yet with practiſe of other duties ſtill required to preparation,</p>
+            <p>
+               <hi>Q. What are the duties required of a weake Chri<g ref="char:EOLhyphen"/>ſtian after examination?</hi>
+            </p>
+            <pb n="11" facs="tcp:191830:7"/>
+            <p>A. Hee is carefully with bitterneſſe of ſpi<g ref="char:EOLhyphen"/>rit to remember the manifold rebeilions of his unregene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate eſtate
+<note n="a" place="margin">
+                  <hi>Pſalme</hi> 25.7. 1 <hi>Timothy</hi> 1.13.</note>, the wants and weake<g ref="char:EOLhyphen"/>neſſes of his preſent eſtate
+<note n="b" place="margin">
+                  <hi>Romans</hi> 7. The whole Chapter.</note>, that ſo hee may ſtirre up earneſt deſires and thirſt after Chriſt in the Sacrament, and hee is to renew his faith in Chriſt
+<note n="c" place="margin">
+                  <hi>Hebr.</hi> 11.28.</note>, and his repentance for all knowne ſinnes, eſpecially committed ſince his former receiving, and his love to God and man, and he is to renew his reſolutions and purpoſes of bet<g ref="char:EOLhyphen"/>ter obedience to God for the time to come
+<note n="d" place="margin">
+                  <hi>Iſa.</hi> 1.16, 17, 18.</note>.</p>
+            <p>
+               <hi>Q. How is a Chriſtian to renew his faith in Chriſt?</hi>
+            </p>
+            <p>A. Hee muſt labour to ſue out a new pardon of his ſinnes
+<note n="a" place="margin">2 <hi>Chro.</hi> 30.6.</note>, eſpecially that moſt trouble the peace of his conſcience, and preſſe the promi<g ref="char:EOLhyphen"/>ſes that concerne the Sacrament
+<note n="b" place="margin">1 <hi>Cor.</hi> 11.24.</note>, and the death of Chriſt
+<note n="c" place="margin">1 <hi>Iohn</hi> 1.7.</note>, by Prayer and Meditation ſtrive againſt carnall reaſon
+<note n="d" place="margin">
+                  <hi>Iohn</hi> 6.38.</note>, the grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt e<g ref="char:EOLhyphen"/>nemy of Faith, bewayle his unbeleefe
+<note n="e" place="margin">
+                  <hi>Mar.</hi> 9.24.</note>, pon<g ref="char:EOLhyphen"/>der and weigh well the nature of the Sacra<g ref="char:EOLhyphen"/>ment, that it is Gods oath to ſecure his promiſes unto us
+<note n="f" place="margin">
+                  <hi>Heb.</hi> 6.16, 17.</note>, and a pledge and ſeal of the righteouſnes of faith
+<note n="g" place="margin">
+                  <hi>Rom.</hi> 4.11.</note>, and conſider Gods Commandements to receive and injoy the merits of Chriſts death offered to us in this Sacrament
+<note n="h" place="margin">1 <hi>Cor.</hi> 11.24.</note>.</p>
+            <pb n="12" facs="tcp:191830:8"/>
+            <p>
+               <hi>Q. How is a Chriſtian to renew his d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſires after Christ in the Sacrament?</hi>
+            </p>
+            <p>A. Hee that would renew his deſires, or hunger and thirſt after Chriſt muſt acquaint himſelfe tho<g ref="char:EOLhyphen"/>roughly with his owne wants and emptineſſe
+<note n="a" place="margin">
+                  <hi>Prov.</hi> 27.7.</note>, and take heed of a preſumptuous imagination of more grace then hee hath attained unto
+<note n="b" place="margin">
+                  <hi>Revel.</hi> 3.16, 17.</note>, he muſt have a thorow view of the wonderfull excellency and fullneſſe that is in Chriſt
+<note n="c" place="margin">
+                  <hi>Iohn</hi> 4.10. <hi>Col.</hi> 1.19.</note>, and the promiſes,
+<note n="d" place="margin">2 <hi>Pet.</hi> 1.4.</note>, and the worth of Gods favour and loving kind<g ref="char:EOLhyphen"/>neſſe that is better then life it ſelfe
+<note n="e" place="margin">
+                  <hi>Pſal.</hi> 63.3.</note>, and his owne utter inſufficiency to bring his heart to a<g ref="char:EOLhyphen"/>ny true hunger and thirſt after theſe things
+<note n="f" place="margin">
+                  <hi>Phil.</hi> 2.13.</note>.</p>
+            <p>
+               <hi>Q. How is a true Chriſtian to renew his repen<g ref="char:EOLhyphen"/>tance?</hi>
+            </p>
+            <p>A. He muſt examine himſelfe ſtrictly concerning particular ſins, eſpecially moſt lately committed
+<note n="a" place="margin">1 <hi>Cor.</hi> 11.31.</note>, &amp; by the ſerious conſideration of them, &amp; the circum<g ref="char:EOLhyphen"/>ſtances of them, to renew a more bitter ſorrow for them
+<note n="b" place="margin">
+                  <hi>Lam.</hi> 3.40.</note>, he muſt renew his free particular and humble confeſſion of them
+<note n="c" place="margin">1 <hi>Sam.</hi> 7.6.</note>, with hearty prayer for the pardon of them
+<note n="d" place="margin">
+                  <hi>Pſ.</hi> 51.1, 2.</note>, and ſtrength againſt them
+<note n="e" place="margin">2 <hi>Cor.</hi> 12.8.</note>, make reſtitution and ſatisfaction in caſe that hee hath wronged any one to the utmoſt of his pow<g ref="char:EOLhyphen"/>er
+<note n="f" place="margin">
+                  <hi>Luke</hi> 19.8.</note>.</p>
+            <pb n="13" facs="tcp:191830:8"/>
+            <p>
+               <hi>Q. How is a Chriſtian to renew his reſolution of better obedience?</hi>
+            </p>
+            <p>A. He is with humble acknowledgement of his owne weakeneſſe
+<note n="a" place="margin">
+                  <hi>Pſ.</hi> 119.106.</note>, to reſolve without further delay,
+<note n="b" place="margin">
+                  <hi>Pſ.</hi> 119.60</note> to walke in new obedience (God aſſi<g ref="char:EOLhyphen"/>ſting him with his grace) and to this end hee is earneſtly to crave ſtrength from God that hee would inable him therunto
+<note n="c" place="margin">
+                  <hi>Pſ.</hi> 119.117.</note>.</p>
+            <p>
+               <hi>Q. How is a Chriſtian to renew his charity before receiving?</hi>
+            </p>
+            <p>A. He is out of due conſideration and ſence of Gods love to him in Chriſt, to get his heart infla<g ref="char:EOLhyphen"/>med with love to God
+<note n="a" place="margin">2 <hi>Cor.</hi> 5.14.</note>, and man
+<note n="b" place="margin">1 <hi>John</hi> 4.11.</note>, to forgive injuries freely, if any man hath wronged him
+<note n="c" place="margin">
+                  <hi>Epheſ.</hi> 4.23.</note>, and to ſeeke reconciliation with others, if he hath given them any occaſion of offence
+<note n="d" place="margin">
+                  <hi>Mat.</hi> 5.24, 25. <hi>Rom.</hi> 12.8.</note>.</p>
+            <p>
+               <hi>Thus farre of the duties before receiving.</hi>
+            </p>
+            <p>
+               <hi>Q What are the duties required of a Chriſtian in time of receiving?</hi>
+            </p>
+            <p>A. Firſt, every one is to give diligent atten<g ref="char:EOLhyphen"/>tion to that which is publikely done not onely when he himſelfe is to receive, but during the whole action
+<note n="a" place="margin">1 <hi>Corin.</hi> 14.16.</note>, to behold and looke upon both the e<g ref="char:EOLhyphen"/>lements themſelves
+<note n="b" place="margin">
+                  <hi>Exodus</hi> 24.8.</note>, and all the Sacramentall
+<pb n="14" facs="tcp:191830:9"/>actions in the adminiſtration of this Sacrament
+<note n="d" place="margin">1 <hi>Corinth.</hi> 14.40.</note>, he muſt uſe ſuch reverent behaviour and ge<g ref="char:EOLhyphen"/>ſtures as may be free from ſuperſtition, yet fit to ſtirre up and expreſſe inward faith and thank<g ref="char:EOLhyphen"/>fulneſſe
+<note n="e" place="margin">
+                  <hi>Heb.</hi> 13.16.</note>, and as he hath received ſuch inward pledges from God of his love, ſo hee is, ac<g ref="char:EOLhyphen"/>cording to his power in teſtimony of his thank<g ref="char:EOLhyphen"/>fulneſſe to offer the Sacrifice of almes cheer<g ref="char:EOLhyphen"/>fully for the releefe of the poore members of Chriſt,</p>
+            <note n="c" place="margin">1 <hi>Corinthians</hi> 11.10.</note>
+            <p>
+               <hi>Q. What ſhould be the meditation and diſpoſition of our hearts in the time of receiving?</hi>
+            </p>
+            <p>A. When you ſee the bread and wine conſe<g ref="char:EOLhyphen"/>crated and ſet apart for this holy uſe, then wee muſt call to minde and conſider the eternall love of God the Father in ſanctifying and ſet<g ref="char:EOLhyphen"/>ting apart his ſonne Jeſus Chriſt in his ſecret counſell, to bee the Redeemer and ſurety of his people
+<note n="a" place="margin">
+                  <hi>Iohn</hi> 10.36.</note>, and the tender mercy of Chriſt in un<g ref="char:EOLhyphen"/>dertaking this hard ſervice for us
+<note n="b" place="margin">
+                  <hi>Hebr.</hi> 7.26. <hi>Hebr.</hi> 10.9.</note>, when wee ſee the bread broken, and the wine powred out, wee are to mourne over him whom wee have pierced by our ſinnes
+<note n="c" place="margin">
+                  <hi>Zach.</hi> 12.12.</note>, and remember the infinite juſtice and wrath of God againſt ſinne that could never be ſatisfied but by this meanes
+<note n="d" place="margin">
+                  <hi>Romans</hi> 3.25.</note>, when wee ſee the bread and wine delivered unto us by the Miniſter, wee are to
+<pb n="15" facs="tcp:191830:9"/>meditate upon the gift and application of Chriſt crucified to our owne ſoules in particular, and to every beleeving receiver
+<note n="e" place="margin">
+                  <hi>Gallat.</hi> 2.20.</note>, when wee take the bread and wine at the Miniſters hand, wee are to ſtirre up our ſoules by Faith to lay hold upon, and to apply to our ſelves all the merits of Chriſts death
+<note n="f" place="margin">1 <hi>Cor.</hi> 11.24.</note>, and ſo joyfully to feed there<g ref="char:EOLhyphen"/>upon, that wee may feele our ſoules ſatisfied thereby
+<note n="g" place="margin">
+                  <hi>Mat.</hi> 11.26.</note>, and ſtrengthened againſt all temptati<g ref="char:EOLhyphen"/>ons
+<note n="h" place="margin">
+                  <hi>Ioh.</hi> 6.35. 1 <hi>Cor.</hi> 10.16, 17.</note>, when wee behold the reſt of the Con<g ref="char:EOLhyphen"/>gregation communicating with us, wee are to ſtirre up our hearts to loving and kinde affecti<g ref="char:EOLhyphen"/>ons towards them and all the people of God.</p>
+            <p>
+               <hi>Q What is that holy carriage that is required after receiving the Sacrament?</hi>
+            </p>
+            <p>A. After the receiving of the Sacrament of the Lords Supper, a Chriſtian muſt try himſelfe whither <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee hath beene made to drinke into one ſpirit with Chriſt and his members or not
+<note n="a" place="margin">1 <hi>Corinth.</hi> 12.13.</note>, and what growth hee hath gotten by the Sacrament in aſſurance of Gods favour, in ſtrength againſt corruptions, in power to walke with God in, o<g ref="char:EOLhyphen"/>bedience unto him, and in all other graces of the Spirit, and fruits of Chriſts death, and if hee cannot finde theſe fruites in himſelfe, hee muſt
+<pb n="16" facs="tcp:191830:10"/>humble himſelfe for his owne ſinnes and failings as the cauſe thereof
+<note n="b" place="margin">1 <hi>Corin.</hi> 11.31.</note>, and though hee findes not that comfort and benefit, yet if hee be true<g ref="char:EOLhyphen"/>ly humbled for the want of it, hee may be com<g ref="char:EOLhyphen"/>forted in this as a fruit of a worthy receiving
+<note n="c" place="margin">2 <hi>Chron.</hi> 30.18, 19,</note>; if hee ſhall finde upon examination the former benefits truely wrought in his heart, hee is to give God the glory, and to deſire the continu<g ref="char:EOLhyphen"/>ance and increaſe of the ſame grace with all ho<g ref="char:EOLhyphen"/>ly indeavours to that end
+<note n="d" place="margin">1 <hi>Chron.</hi> 29.13, 14,—18.</note>, and as hee hath re<g ref="char:EOLhyphen"/>ceived Jeſus Chriſt, ſo hee is to walke in him
+<note n="e" place="margin">
+                  <hi>Col.</hi> 2.6, 7.</note>, and to keepe the covenant that hee hath made with the Lord at the Sacrament, and to increaſe in love and fellowſhip with Gods children
+<note n="f" place="margin">1 <hi>Cor.</hi> 10.16, 17.</note>, and out of the ſence of the comfort and benefit of this Sacrament to reſort the oftner, and with more earneſt deſire unto it
+<note n="g" place="margin">2 <hi>Chron.</hi> 30.21, 23.</note>.</p>
+            <p>
+               <hi>Q What are the notes whereby we may diſcerne the Regenerate from the Reprobate?</hi>
+            </p>
+            <p>A. There are theſe three notes: Firſt if the childe of God be inticed and drawne away from God, hee grieveth for it and giveth not ready con<g ref="char:EOLhyphen"/>ſent unto the temptation.</p>
+            <p n="2">2. If through frailty hee be over-carried to give conſent, yet it is not full content, but doth
+<pb n="17" facs="tcp:191830:10"/>it againſt his will and purpoſe, for his purpoſe is not to ſin.</p>
+            <p n="3">3. If he put his luſts in execution, hee lyeth not in them, hee will not walke after them, but recovereth himſelfe, becauſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee is incorpo<g ref="char:EOLhyphen"/>rated into Chriſt, hee hath the roote of grace which ſhall not utterly dye in him, the ſeede a<g ref="char:EOLhyphen"/>bideth in him which at laſt ſhall ſprout up to Repentance and amendment of life, <hi>Gallatians</hi> 3. <hi>v.</hi> 10. <hi>As many as are under the workes of the Law are under the curſe:</hi> Therfore we hence conclude contrary to the Doctrine of our Adver<g ref="char:EOLhyphen"/>ſaries, that if all men be condemned by the Law, then is no man able to keep and performe the du<g ref="char:EOLhyphen"/>ties of the Law which it requireth.</p>
+            <div type="part">
+               <head>Divers Markes and notes of an Hypocrite, which we may obſerve out of the firſt book of <hi>Samuell,</hi> and the <hi>15.</hi> Chap.</head>
+               <p>FIrſt, He is very forward in boaſting of his o<g ref="char:EOLhyphen"/>bedience, and to have a very high eſteeme of himſelfe by reaſon therof, though it be nothing ſo; as we may ſee in the 13. verſe, ſaith <hi>Saul</hi> there to <hi>Samuell,</hi> after he was come from the ſlaughter of the <hi>Amalekites,</hi> the very firſt word he utters to him, <hi>I have performed the commande<g ref="char:EOLhyphen"/>ment
+<pb n="18" facs="tcp:191830:11"/>of the Lord,</hi> though it was nothing ſo, as <hi>Samuell</hi> ſhewes there unto him; for ſaith he to him, <hi>What then meaneth this bleating of Sheep and this lowing of Oxen in my Ears:</hi> For Gods com<g ref="char:EOLhyphen"/>mandment to him was, to ſlay all, man and wo<g ref="char:EOLhyphen"/>man, young and old, infant and ſuckling, Oxe and Sheep, Camell and Aſſe, but theſe he had ſa<g ref="char:EOLhyphen"/>ved alive.</p>
+               <p>Secondly, He makes Religion a cloake for to cover and hide his ſin, or at leaſt to leſſen it when it is diſcovered; So <hi>Saul</hi> here when <hi>Samuell</hi> had begun to tell him of his ſin, why? as if hee ſhould ſay you have no cauſe to blame us for this, for <hi>the people tooke of the beſt of the Sheepe and the Oxen to Sacrifice unto the Lord thy God, &amp;c.</hi>
+               </p>
+               <p>Thirdly, He is obſtinate and obdurate in his ſin, and will not endure to be convinced of it though it be never ſo plaine, and ſo we ſee here that when <hi>Samuell</hi> had ſhowen <hi>Saul</hi> his ſin in ſa<g ref="char:EOLhyphen"/>ving the Sheepe and Oxen alive, the which God had commanded him for to deſtroy<g ref="char:punc">▪</g> yet for all that he juſtifies himſelfe and ſaith <hi>I have obeyed the voyce of the Lord, and have gone the way the Lord ſent me.</hi>
+               </p>
+               <p>Fourthly, The Hypocrite when he is told of his ſin he will extenuate and leſſen it, and ſhift it off upon others; ſo <hi>Saul</hi> here, verſ. 21. <hi>The people tooke of the ſpoyle, ſheepe and oxen, the chief
+<pb n="19" facs="tcp:191830:11"/>of the things which ſhould have bin deſtroyed, to Sa<g ref="char:EOLhyphen"/>crifice unto the Lord thy God in G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lgall,</hi> as if hee ſhould have ſaid, thou haſt no reaſon to lay all the fault upon me, it was the people that ſaved theſe alive.</p>
+               <p>Fifthly, Hypocrites when they are convinced of their ſins, and they humble themſelves for them, and doe confeſſe and acknowledge them, it is of conſtraint, not becauſe they are grieved for that they have offended God thereby, but becauſe they ſee ſome evill or judgement is like to befall them for the ſame, as in the 23. and 24 verſes, <hi>Saul</hi> would never be brought to ſay, I have ſin<g ref="char:EOLhyphen"/>ned, till ſuch time as <hi>Samuell</hi> told him what would come of it, ſaying, <hi>Becauſe thou haſt rejected the word of the Lord, therefore he hath rejected thee from being King,</hi> then he ſaith, <hi>I have ſinned, for I have tranſgreſſed the Commandment of the Lord and thy words,</hi> all the time before nothing could be gotten from him, but this, I have obeyed the voice of the Lord, <hi>&amp;c.</hi>
+               </p>
+               <p>Sixthly and laſtly, Hypocrites when they ſee that their ſin and hypocriſie is diſcov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red, they doe not ſo much deſire to get into Gods favour, and to make their peace with God, as to keepe it from the eyes of the world, that it may not turne to be a reproach and a ſcandall upon them, but that ſtill the world may thinke well of them and may have them in high account, and this was
+<pb n="20" facs="tcp:191830:12"/>that, which as may appeare in the 30. verſe, did moſt trouble <hi>Saul.</hi> For <hi>Saul</hi> he had made a faire ſhew and had profeſt a great deale of love and obedience to God, but now he was caught tardy, and his hypocriſie diſcovered, fearing this ſhould turne to his ſhame in regard of his former great profeſſion, after a ſleight confeſſion that he makes of his ſinne in generall, ſaying, <hi>I have ſinned,</hi> ſaith he, <hi>honour me yet now I pray thee before the Elders of my people and before Iſrael,</hi> whereby it appeares that this was the chiefe and maine thing that he ſtood upon, his credit and repu<g ref="char:EOLhyphen"/>tation in the world.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191830:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
